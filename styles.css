@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    height:100vh;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+
+.dStar {
+    width: 39%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.dStarImg {
+  position: relative;
+}
+
+.rBody {
+    display: flex;
+    flex: auto;
+}
+
+div {
+    border: 1px solid blue;
+}
